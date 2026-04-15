@@ -134,6 +134,7 @@ python -m http.server 8000
 
 Acceso
 
+- Github: "https://raw.githubusercontent.com/NESGESFinance/Identidad-Digital/main/Authorized_Digital_Signature_QR.jpg" 
 - API: "http://localhost:8080/verify"
 - Web: "http://localhost:8000"
 
